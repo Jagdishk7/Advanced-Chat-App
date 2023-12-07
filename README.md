@@ -1,5 +1,5 @@
 Namaste Chat App
-Namaste Chat App is a modern and feature-rich chat application that allows users to connect with their loved ones in real-time. With an intuitive user interface and powerful features, Vibe provides an immersive chat experience.
+Namaste Chat App is a modern and feature-rich chat application that allows users to connect with their loved ones in real-time. With an intuitive user interface and powerful features, this provides an immersive chat experience.
 
 
 
